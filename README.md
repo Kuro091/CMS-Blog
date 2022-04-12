@@ -2,9 +2,9 @@
 See this live here
 https://cms-blog-1mjzzcale-kuro091.vercel.app/
 
+Backend is managed by GraphCMS.
 
-
-
+![](https://i.imgur.com/g2jaS6R.png)
 
 
 
