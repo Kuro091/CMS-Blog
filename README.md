@@ -1,6 +1,6 @@
 
 See this live here
-https://cms-blog-1mjzzcale-kuro091.vercel.app/
+https://cms-blog-tan.vercel.app/
 
 Backend is managed by GraphCMS.
 
